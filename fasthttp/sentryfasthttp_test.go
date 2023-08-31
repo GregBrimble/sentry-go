@@ -8,9 +8,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/getsentry/sentry-go"
-	sentryfasthttp "github.com/getsentry/sentry-go/fasthttp"
-	"github.com/getsentry/sentry-go/internal/testutils"
+	"github.com/GregBrimble/sentry-go"
+	sentryfasthttp "github.com/GregBrimble/sentry-go/fasthttp"
+	"github.com/GregBrimble/sentry-go/internal/testutils"
 	"github.com/google/go-cmp/cmp"
 	"github.com/google/go-cmp/cmp/cmpopts"
 	"github.com/valyala/fasthttp"

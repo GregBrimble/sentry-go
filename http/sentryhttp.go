@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/getsentry/sentry-go"
+	"github.com/GregBrimble/sentry-go"
 )
 
 // The identifier of the Gin SDK.

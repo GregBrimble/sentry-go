@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/getsentry/sentry-go"
-	sentrygin "github.com/getsentry/sentry-go/gin"
+	"github.com/GregBrimble/sentry-go"
+	sentrygin "github.com/GregBrimble/sentry-go/gin"
 	"github.com/gin-gonic/gin"
 )
 

@@ -7,8 +7,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/getsentry/sentry-go"
-	sentryiris "github.com/getsentry/sentry-go/iris"
+	"github.com/GregBrimble/sentry-go"
+	sentryiris "github.com/GregBrimble/sentry-go/iris"
 	"github.com/kataras/iris/v12"
 )
 

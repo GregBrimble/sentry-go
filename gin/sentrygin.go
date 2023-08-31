@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/getsentry/sentry-go"
+	"github.com/GregBrimble/sentry-go"
 	"github.com/gin-gonic/gin"
 )
 

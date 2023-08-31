@@ -6,8 +6,8 @@ import (
 	"context"
 	"testing"
 
-	"github.com/getsentry/sentry-go"
-	"github.com/getsentry/sentry-go/internal/otel/baggage"
+	"github.com/GregBrimble/sentry-go"
+	"github.com/GregBrimble/sentry-go/internal/otel/baggage"
 	"go.opentelemetry.io/otel/propagation"
 	"go.opentelemetry.io/otel/trace"
 )

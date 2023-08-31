@@ -6,8 +6,8 @@ import (
 	"context"
 	"time"
 
-	"github.com/getsentry/sentry-go"
-	"github.com/getsentry/sentry-go/otel/internal/utils"
+	"github.com/GregBrimble/sentry-go"
+	"github.com/GregBrimble/sentry-go/otel/internal/utils"
 	"go.opentelemetry.io/otel/attribute"
 	otelSdkTrace "go.opentelemetry.io/otel/sdk/trace"
 )
